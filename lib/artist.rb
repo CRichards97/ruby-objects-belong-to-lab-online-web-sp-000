@@ -1,4 +1,4 @@
-class artist
+class Artist
   @artist=artist
 artist.name = "Beyonce"
 end
