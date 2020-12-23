@@ -1,4 +1,3 @@
 class Artist
-  @artist=artist
-artist.name = "Beyonce"
+  attr_accessor :name
 end
